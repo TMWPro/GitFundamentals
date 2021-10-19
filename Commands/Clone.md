@@ -8,9 +8,9 @@ It will also be associated with the remote, meaning that you can use the 'git pu
 command to pull updates from the original repository.
 
 It can be done with the 'git clone' command as seen here:
-'''
+```
 git clone https://github.com/ElevenfiftyAcademy/TerminalDungeon.git
-'''
+```
 
 ## Resources
 

@@ -9,10 +9,10 @@ A commit message _can_ be anything, but best practice dictates that you should u
 
 For example, if we have an application we're working on where just built out the ability to register new accounts, then you might have some variation of the following:
 
-'''
+```
 git add .
 git commit -m "Added register functionality"
-'''
+```
 
 Then when viewing the history of a git repository, you can pinpoint where the regiustration functionality was added.
 

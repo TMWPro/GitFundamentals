@@ -16,9 +16,9 @@ Instead of including the name of the remote and the branch you're on every time,
  you can set local branches to track an upstream branch.
  This means you can tell the branch to push to its assigned upstream remote branch by using the command 'git push'.
 
-'''
+```
 git push -u origin main
-'''
+```
  After this command is used, you can just use 'git push' and it will function the same way.
 
 ## Resources

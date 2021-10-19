@@ -9,7 +9,7 @@ mkdir NewDirectory
 cd NewDirectory
 git init
 '''
-Once inside a git repository, you can syaty using commands such as
+Once inside a git repository, you can start using commands such as
 [status](./Status.md),
 [add](./Add.md),
 [commit](./Commit.md),
@@ -20,7 +20,7 @@ Init will create the repository in the current directory and will encapsulate al
 
 ## Resources
 
-- [Git Init Documentation](https://git-scm.com/docs/git/git-Init)
+- [Git Init Documentation](https://git-scm.com/docs/git/git-init)
 
 ---
 
